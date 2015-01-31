@@ -56,24 +56,26 @@ define(['shared/gw_common'], function (GW) {
                 //'/pa/units/air/air_scout/air_scout.json',
                 //'/pa/units/air/bomber/bomber.json',
                 //'/pa/units/air/fighter/fighter.json',
+                //'/pa/units/air/transport/transport.json',
                 // T2 Air
                 //'/pa/units/air/air_factory_adv/air_factory_adv.json',
                 '/pa/units/air/fabrication_aircraft_adv/fabrication_aircraft_adv.json',
                 '/pa/units/air/bomber_adv/bomber_adv.json',
                 '/pa/units/air/fighter_adv/fighter_adv.json',
                 '/pa/units/air/gunship/gunship.json',
-                '/pa/units/air/transport/transport.json',
                 // T1 Sea
                 '/pa/units/sea/naval_factory/naval_factory.json',
                 '/pa/units/sea/fabrication_ship/fabrication_ship.json',
                 '/pa/units/sea/frigate/frigate.json',
                 '/pa/units/sea/destroyer/destroyer.json',
                 '/pa/units/sea/sea_scout/sea_scout.json',
+                "/pa/units/sea/attack_sub/attack_sub.json", 
                 // T2 Sea
                 //'/pa/units/sea/naval_factory_adv/naval_factory_adv.json',
                 '/pa/units/sea/fabrication_ship_adv/fabrication_ship_adv.json',
                 '/pa/units/sea/missile_ship/missile_ship.json',
                 '/pa/units/sea/battleship/battleship.json',
+                "/pa/units/sea/nuclear_sub/nuclear_sub.json", 
                 // T1 Orbital
                 '/pa/units/orbital/orbital_launcher/orbital_launcher.json',
                 '/pa/units/orbital/deep_space_radar/deep_space_radar.json',

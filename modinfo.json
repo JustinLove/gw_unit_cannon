@@ -1,11 +1,11 @@
 {
   "author": "wondible",
-  "build": "76514",
+  "build": "77443",
   "category": ["hotfix", "galactic-war"],
   "context": "client",
-  "date": "2014/12/22",
-  "description": "Make Unit Cannon available by default in Galactic War.  May be incompatible with other GW mods.",
-  "display_name": "GW Unit Cannon",
+  "date": "2015/01/31",
+  "description": "Make Unit Cannon available by default in Galactic War, and include subs.  May be incompatible with other GW mods.",
+  "display_name": "GW Unit Cannon and Friends",
   "forum": "https://forums.uberent.com/threads/rel-gw-unit-cannon.66690/",
   "identifier": "com.wondible.pa.gw_unit_cannon",
   "priority": 100,
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "2.0.0"
 }
 

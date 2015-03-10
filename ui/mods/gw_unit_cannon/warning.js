@@ -7,7 +7,7 @@
       height: 400,
       width: 600,
       modal: true,
-      autoOpen: model.buildVersion() != '76514',
+      autoOpen: model.buildVersion() != '78071',
       buttons: {
           "EXIT": function () {
               model.exit();
@@ -33,11 +33,11 @@
     container.appendTo('body')
     loadTemplate(container, 'coui://ui/mods/gw_unit_cannon/warning.html', model);
   }
-/*
+
   if (model.buildVersion()) {
     enableCanery()
   } else {
     model.buildVersion.subscribe(enableCanery)
   }
-*/
+
 })()

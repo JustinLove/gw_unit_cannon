@@ -1,5 +1,9 @@
 # GW Unit Cannon and Friends
 
+## 2.1.0
+
+- Added version canery, since next stable build is almost certain to include fix.
+
 ## 2.0.0
 
 - Add "and Friends" to name
